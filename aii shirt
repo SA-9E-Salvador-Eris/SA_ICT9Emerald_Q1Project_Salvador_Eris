@@ -1,0 +1,59 @@
+<!Doctype html>
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		p {
+			font-family: Verdana;
+			color: #7d3c24;
+			text-align:right;
+		}
+		img {
+			float: left;
+		}
+		ol{
+			text-align: right;
+		}
+		li{
+			font-family: verdana;
+			color: #7d3c24;
+			text-align: right;
+		}
+		label{
+			font-family: verdana;
+			color: #7d3c24;
+		}
+	</style>
+	<link rel="stylesheet" href="css.css">
+	<title>RandomBand27</title>
+</head>
+<body align="middle">
+	<h1>Welcome to the Random Band 27 Shop</h1>
+
+	<img src="Aii shirt.jpeg">
+	<p>Arson is Illegal T Shirt<br>
+		Cost: 600Php<br>
+	Arson is Illegal Red T shirt with album cover print.<br>
+	
+<form>
+<label for="quantity">Quantity</label>
+	<input id="quantity" type="number" value="1">
+	<input type="submit" value="Add to Cart" class="submit-button">
+</form><br><br><br>
+
+<form action="/action_page.php">
+	<p>Size</p>
+ <input type="radio" id="chihiro" name="size" value="smol">
+ <label for="chihiro">Small</label><br>
+ <input type="radio" id="mid" name="size" value="mid">
+ <label for="mid">Medium</label><br>
+ <input type="radio" id="big" name="size" value="big">
+ <label for="big">Large</label>
+</form>
+
+
+
+<a href="SA_ICT9Emerald_Q1Project_Salvador_Eris.html"><p>Home Page</p></a>
+</script>
+</body>
+</html>

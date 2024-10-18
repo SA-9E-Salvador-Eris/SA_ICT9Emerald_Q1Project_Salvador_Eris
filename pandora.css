@@ -1,0 +1,39 @@
+body{
+	text-align: center;
+	background-color: #2b5a8c;
+}
+
+h1{
+	font-family: Verdana;
+	color: #263f59;
+}
+h3{
+	font-family: Verdana;
+	color: #263f59;
+}
+
+p{
+	color:#263f59;
+}
+
+li{
+	color:#263f59;
+}
+
+label{
+	color:#263f59;
+}
+
+img{
+	width: 100%;
+	height: auto;
+	max-width: 300px;
+
+ .submit-button {
+			background-color: #3c5673;
+			color: white;
+			padding: 10px 20px;
+			text-align: center;
+			display: inline-block;
+			size: 50px;
+		}

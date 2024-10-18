@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+	background-color: #572118;
+}
+
+h1{
+	font-family: Verdana;
+	color: #7d3c24;
+}
+h3{
+	font-family: Verdana;
+	color: #7d3c24;
+}
+
+img{
+	width: 100%;
+	height: auto;
+	max-width: 300px;
+
+ .submit-button {
+			background-color: #70271d;
+			color: white;
+			padding: 10px 20px;
+			text-align: center;
+			display: inline-block;
+			size: 50px;
+		}
